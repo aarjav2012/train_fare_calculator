@@ -1,4 +1,4 @@
-# Train Fare Calculator
+# Project Title : Train Fare Calculator
 I made a simple Python-based project developed as part of the VITYARTHI PROJECT requirements.  
 The program calculates the total train fare based on distance, coach type, discount category,  
 and GST.
@@ -27,7 +27,7 @@ the total fare.
 4. add_tax() – GST addition  
 5. show_total() – Display output  
 
-## How to Run
+# How to Run
 Firstly you have to download the Python  
 And then run the program using: python3 fare calculator.py
 
